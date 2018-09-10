@@ -1,0 +1,19 @@
+{
+  "name": "@markp619/sorting-algorithm",
+  "version": "1.0.0",
+  "description": "An example of using npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusp619/sorting-algorithm.git"
+  },
+  "author": "Mark Pearyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusp619/sorting-algorithm/issues"
+  },
+  "homepage": "https://github.com/marcusp619/sorting-algorithm#readme"
+}
